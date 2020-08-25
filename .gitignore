@@ -1,0 +1,8 @@
+username.txt
+password.txt
+chromedriver
+errors.txt
+runhistory.txt
+geckodriver.log
+*.pyc
+login.py
